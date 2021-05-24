@@ -1,10 +1,7 @@
-![hello](https://user-images.githubusercontent.com/72591613/119396552-9dc56900-bcf2-11eb-842a-5b6c25a2d4da.gif)
+![text](https://user-images.githubusercontent.com/72591613/119397539-e4679300-bcf3-11eb-9fea-a7a49fb6b51f.gif)
 
 
 
-
-
-**Bala Pranav Shanth U**
 
 Having demonstrated 10 years of work experience in sales,I am currently learning and exploring Data Science. I am about to complete my PGP(Data science and Business Analytics) program in Great Learning Institute.I come with an extensive experience of working with different industries like construction, Engineering, Manufacturing,etc.
 
