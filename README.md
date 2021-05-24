@@ -1,4 +1,4 @@
-![text (2)](https://user-images.githubusercontent.com/72591613/119397987-8b4c2f00-bcf4-11eb-9672-f85e2b491050.gif)
+![What-is-data-science-2](https://user-images.githubusercontent.com/72591613/119398133-bf275480-bcf4-11eb-8633-c3327af38203.jpg)
 
 
 
