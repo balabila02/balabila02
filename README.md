@@ -7,7 +7,7 @@ Having demonstrated 10 years of work experience in sales,I am currently learning
 
 
 
-**Things I'm good at**: Natural Language Processing, Machine Learning, Deep Learning (ANN/RNN), Data Science, Data Visualization.
+**Things I'm good at**: Natural Language Processing, Machine Learning, Deep Learning (ANN/RNN), Recomendation Systems, Data Visualization,Data Science.
 
 **Languages and Visualisation Tool**: Python, Tableau.
 
