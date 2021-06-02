@@ -3,7 +3,9 @@
 
 
 
-Having demonstrated 10 years of work experience in sales,I am currently learning and exploring Data Science. I am about to complete my PGP(Data science and Business Analytics) program in Great Learning Institute.I come with an extensive experience of working with different industries like construction, Engineering, Manufacturing,etc.
+A Data enthusiast with experience in supporting Marketing and Sales Business Units. Holds expertise in building and deploying Machine Learning models.in Data Science, Analytics, consulting etc.
+Adept in solving analytical challenges with business impact
+.I come with an extensive experience of working with different industries like construction, Engineering, Manufacturing,etc.
 
 
 
